@@ -1,5 +1,0 @@
-[Added Associations]
-x-scheme-handler/bitwarden=bitwarden.desktop;Bitwarden.desktop;
-
-[Default Applications]
-x-scheme-handler/bitwarden=bitwarden.desktop
