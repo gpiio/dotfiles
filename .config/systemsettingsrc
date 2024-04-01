@@ -1,0 +1,12 @@
+[MainWindow]
+1920x1080 screen: XPosition=450
+1920x1080 screen: YPosition=182
+2 screens: XPosition=450
+2 screens: YPosition=182
+DP-3-1 eDP-1=eDP-1
+HDMI-1 eDP-1=eDP-1
+MenuBar=Disabled
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAAAAA/wAAAK8AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP-1=eDP-1

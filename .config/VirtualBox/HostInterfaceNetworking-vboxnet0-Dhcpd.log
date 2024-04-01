@@ -1,0 +1,23 @@
+00:00:00.008210 VirtualBox DHCP Server 7.0.14 r161095 linux.amd64 (Jan 19 2024 13:54:29) release log
+00:00:00.008215 Log opened 2024-02-15T16:17:05.447238000Z
+00:00:00.008216 Build Type: release
+00:00:00.008221 OS Product: Linux
+00:00:00.008225 OS Release: 6.7.4-arch1-1
+00:00:00.008229 OS Version: #1 SMP PREEMPT_DYNAMIC Mon, 05 Feb 2024 22:07:49 +0000
+00:00:00.008305 DMI Product Name: 20J7S0DK00
+00:00:00.008331 DMI Product Version: ThinkPad T470p
+00:00:00.008343 Firmware type: UEFI
+00:00:00.009849 Secure Boot: Disabled
+00:00:00.009949 Host RAM: 31829MB (31.0GB) total, 25868MB (25.2GB) available
+00:00:00.009956 Executable: /usr/lib/virtualbox/VBoxNetDHCP
+00:00:00.009957 Process ID: 86433
+00:00:00.009959 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.010009 --config:  HostInterfaceNetworking-vboxnet0
+00:00:00.010029 --comment: HostInterfaceNetworking-vboxnet0
+00:00:00.010324 IP address:   192.168.56.100/24
+00:00:00.010346 Address pool: 192.168.56.101 - 192.168.56.254
+00:00:00.010395 MAC address is not specified: will use generated MAC 08:00:27:d9:08:a3
+00:00:00.010413 Db::i_enterFixedAddressAssignment: 08:00:27:d9:08:a3: 192.168.56.100
+00:00:00.010429 loading leases from /home/gpiio/.config/VirtualBox/HostInterfaceNetworking-vboxnet0-Dhcpd.leases
+00:00:00.010605 Runtime error opening '/home/gpiio/.config/VirtualBox/HostInterfaceNetworking-vboxnet0-Dhcpd.leases' for reading VERR_FILE_NOT_FOUND (File not found.)
+00:00:00.010666 SUP: Opened VMMR0.r0 (/usr/lib/virtualbox/VMMR0.r0) at 0xXXXXXXXXXXXXXXXX.
